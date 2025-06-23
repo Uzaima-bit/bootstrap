@@ -15,6 +15,22 @@
     .DUI, .case, .blog, .credentials, .area, .testimonials, .areas, .us{
     color:  #750f0f;
 }
+.clients{
+    margin-bottom: -0px;
+}
+.butt{
+    font-size: 14px;
+    
+}
+.buttt{
+    font-size: 14px;
+    
+}
+.buttt{
+    font-size: 14px;
+    margin-left: 5px;
+    
+}
 .click-btn{
     border-top: 3px solid grey;
 }
